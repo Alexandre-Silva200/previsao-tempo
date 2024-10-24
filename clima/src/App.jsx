@@ -7,7 +7,9 @@ function App() {
   return (
     <>
       <div> 
-        h1
+        <h1> previsão do tempo </h1>
+        <input />
+        <button>Buscar</button> 
       </div>  
     </>
   )
